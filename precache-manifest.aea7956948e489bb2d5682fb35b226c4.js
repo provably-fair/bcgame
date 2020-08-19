@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "feb87abbefcd91497b28f9333950cdb3",
+    "revision": "4470971586c65c8b65ab9bf53468488e",
     "url": "/bcgame/index.html"
   },
   {
-    "revision": "d7e5fc217b352c0feee1",
-    "url": "/bcgame/static/css/main.5f361e03.chunk.css"
+    "revision": "caad618f492d9c442ca5",
+    "url": "/bcgame/static/css/main.141fb7a3.chunk.css"
   },
   {
-    "revision": "5c8df9ea01624ae0fd41",
-    "url": "/bcgame/static/js/2.567800db.chunk.js"
+    "revision": "54565b0c1c90a958c208",
+    "url": "/bcgame/static/js/2.1048cd83.chunk.js"
   },
   {
     "revision": "07f680fe028df78dd541e78b77343a55",
-    "url": "/bcgame/static/js/2.567800db.chunk.js.LICENSE.txt"
+    "url": "/bcgame/static/js/2.1048cd83.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d7e5fc217b352c0feee1",
-    "url": "/bcgame/static/js/main.73608cad.chunk.js"
+    "revision": "caad618f492d9c442ca5",
+    "url": "/bcgame/static/js/main.30f1a9e3.chunk.js"
   },
   {
     "revision": "9ef521f9cf6fb84aee1e",
@@ -104,12 +104,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bcgame/static/media/ace_of_spades.9d2f7fb7.png"
   },
   {
+    "revision": "d34f9aa3f54e25d11778d1f146090c3f",
+    "url": "/bcgame/static/media/amulet.d34f9aa3.png"
+  },
+  {
     "revision": "e7051d9e94efc4a49e18e71fa5422d8d",
     "url": "/bcgame/static/media/back@2x.e7051d9e.png"
   },
   {
     "revision": "8e78fe87e9d3e05e070d0c937e67214c",
     "url": "/bcgame/static/media/black_joker.8e78fe87.png"
+  },
+  {
+    "revision": "120f1c7ec077ffe84484bb3c40559db1",
+    "url": "/bcgame/static/media/book.120f1c7e.png"
+  },
+  {
+    "revision": "024e2399a3f69bc1bb1c0b54e48680dd",
+    "url": "/bcgame/static/media/cross.024e2399.png"
   },
   {
     "revision": "d6d61a82d0c1d41c2d9243aeb5090ad8",

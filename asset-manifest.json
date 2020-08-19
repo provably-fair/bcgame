@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/bcgame/static/css/main.5f361e03.chunk.css",
-    "main.js": "/bcgame/static/js/main.73608cad.chunk.js",
-    "main.js.map": "/bcgame/static/js/main.73608cad.chunk.js.map",
+    "main.css": "/bcgame/static/css/main.141fb7a3.chunk.css",
+    "main.js": "/bcgame/static/js/main.30f1a9e3.chunk.js",
+    "main.js.map": "/bcgame/static/js/main.30f1a9e3.chunk.js.map",
     "runtime-main.js": "/bcgame/static/js/runtime-main.ec04a610.js",
     "runtime-main.js.map": "/bcgame/static/js/runtime-main.ec04a610.js.map",
-    "static/js/2.567800db.chunk.js": "/bcgame/static/js/2.567800db.chunk.js",
-    "static/js/2.567800db.chunk.js.map": "/bcgame/static/js/2.567800db.chunk.js.map",
+    "static/js/2.1048cd83.chunk.js": "/bcgame/static/js/2.1048cd83.chunk.js",
+    "static/js/2.1048cd83.chunk.js.map": "/bcgame/static/js/2.1048cd83.chunk.js.map",
     "index.html": "/bcgame/index.html",
-    "precache-manifest.70fcc499f18aa8a7813563f8bb2fc38d.js": "/bcgame/precache-manifest.70fcc499f18aa8a7813563f8bb2fc38d.js",
+    "precache-manifest.aea7956948e489bb2d5682fb35b226c4.js": "/bcgame/precache-manifest.aea7956948e489bb2d5682fb35b226c4.js",
     "service-worker.js": "/bcgame/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/bcgame/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.567800db.chunk.js.LICENSE.txt": "/bcgame/static/js/2.567800db.chunk.js.LICENSE.txt",
+    "static/css/main.141fb7a3.chunk.css.map": "/bcgame/static/css/main.141fb7a3.chunk.css.map",
+    "static/js/2.1048cd83.chunk.js.LICENSE.txt": "/bcgame/static/js/2.1048cd83.chunk.js.LICENSE.txt",
     "static/media/10_of_clubs.png": "/bcgame/static/media/10_of_clubs.7fb1f45b.png",
     "static/media/10_of_diamonds.png": "/bcgame/static/media/10_of_diamonds.d1be977d.png",
     "static/media/10_of_hearts.png": "/bcgame/static/media/10_of_hearts.4f45bcb3.png",
@@ -32,8 +32,11 @@
     "static/media/ace_of_diamonds.png": "/bcgame/static/media/ace_of_diamonds.ce5bc5de.png",
     "static/media/ace_of_hearts.png": "/bcgame/static/media/ace_of_hearts.1fcff170.png",
     "static/media/ace_of_spades.png": "/bcgame/static/media/ace_of_spades.9d2f7fb7.png",
+    "static/media/amulet.png": "/bcgame/static/media/amulet.d34f9aa3.png",
     "static/media/back@2x.png": "/bcgame/static/media/back@2x.e7051d9e.png",
     "static/media/black_joker.png": "/bcgame/static/media/black_joker.8e78fe87.png",
+    "static/media/book.png": "/bcgame/static/media/book.120f1c7e.png",
+    "static/media/cross.png": "/bcgame/static/media/cross.024e2399.png",
     "static/media/jack_of_clubs.png": "/bcgame/static/media/jack_of_clubs.d6d61a82.png",
     "static/media/jack_of_diamonds.png": "/bcgame/static/media/jack_of_diamonds.f4f1c70b.png",
     "static/media/jack_of_hearts.png": "/bcgame/static/media/jack_of_hearts.f634cf97.png",
@@ -50,8 +53,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ec04a610.js",
-    "static/js/2.567800db.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.73608cad.chunk.js"
+    "static/js/2.1048cd83.chunk.js",
+    "static/css/main.141fb7a3.chunk.css",
+    "static/js/main.30f1a9e3.chunk.js"
   ]
 }
