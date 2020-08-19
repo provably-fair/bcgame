@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4470971586c65c8b65ab9bf53468488e",
+    "revision": "e23afd1e436b2eb4a505d450cbff5cd4",
     "url": "/bcgame/index.html"
   },
   {
-    "revision": "caad618f492d9c442ca5",
+    "revision": "b1e7a48d6bf88e71a46c",
     "url": "/bcgame/static/css/main.141fb7a3.chunk.css"
   },
   {
-    "revision": "54565b0c1c90a958c208",
-    "url": "/bcgame/static/js/2.1048cd83.chunk.js"
+    "revision": "2f129c990b61bf893bc6",
+    "url": "/bcgame/static/js/2.4b99c629.chunk.js"
   },
   {
     "revision": "07f680fe028df78dd541e78b77343a55",
-    "url": "/bcgame/static/js/2.1048cd83.chunk.js.LICENSE.txt"
+    "url": "/bcgame/static/js/2.4b99c629.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "caad618f492d9c442ca5",
-    "url": "/bcgame/static/js/main.30f1a9e3.chunk.js"
+    "revision": "b1e7a48d6bf88e71a46c",
+    "url": "/bcgame/static/js/main.7ff66895.chunk.js"
   },
   {
     "revision": "9ef521f9cf6fb84aee1e",
@@ -114,6 +114,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8e78fe87e9d3e05e070d0c937e67214c",
     "url": "/bcgame/static/media/black_joker.8e78fe87.png"
+  },
+  {
+    "revision": "4b6df6f56f329aa5bc9b79e6c28a7255",
+    "url": "/bcgame/static/media/blank.4b6df6f5.png"
   },
   {
     "revision": "120f1c7ec077ffe84484bb3c40559db1",
