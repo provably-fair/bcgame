@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "30443714f7d4b28fe708a390ef060bc2",
+    "revision": "4f4d240809bab9b026d54d16be289da4",
     "url": "/bcgame/index.html"
   },
   {
-    "revision": "d43660fcc1d67537b499",
+    "revision": "5bd984cd712ea9333891",
     "url": "/bcgame/static/css/main.141fb7a3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bcgame/static/js/2.887eaba1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d43660fcc1d67537b499",
-    "url": "/bcgame/static/js/main.2953f9b8.chunk.js"
+    "revision": "5bd984cd712ea9333891",
+    "url": "/bcgame/static/js/main.dc671808.chunk.js"
   },
   {
     "revision": "9ef521f9cf6fb84aee1e",
