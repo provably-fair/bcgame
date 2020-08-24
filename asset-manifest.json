@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/bcgame/static/css/main.141fb7a3.chunk.css",
-    "main.js": "/bcgame/static/js/main.dc671808.chunk.js",
-    "main.js.map": "/bcgame/static/js/main.dc671808.chunk.js.map",
+    "main.js": "/bcgame/static/js/main.cef78188.chunk.js",
+    "main.js.map": "/bcgame/static/js/main.cef78188.chunk.js.map",
     "runtime-main.js": "/bcgame/static/js/runtime-main.ec04a610.js",
     "runtime-main.js.map": "/bcgame/static/js/runtime-main.ec04a610.js.map",
-    "static/js/2.887eaba1.chunk.js": "/bcgame/static/js/2.887eaba1.chunk.js",
-    "static/js/2.887eaba1.chunk.js.map": "/bcgame/static/js/2.887eaba1.chunk.js.map",
+    "static/js/2.838c8689.chunk.js": "/bcgame/static/js/2.838c8689.chunk.js",
+    "static/js/2.838c8689.chunk.js.map": "/bcgame/static/js/2.838c8689.chunk.js.map",
     "index.html": "/bcgame/index.html",
-    "precache-manifest.224a48d12725cadb7c18b32a368d965a.js": "/bcgame/precache-manifest.224a48d12725cadb7c18b32a368d965a.js",
+    "precache-manifest.9daeded3d46b4e66e54b72cb6fa342ae.js": "/bcgame/precache-manifest.9daeded3d46b4e66e54b72cb6fa342ae.js",
     "service-worker.js": "/bcgame/service-worker.js",
     "static/css/main.141fb7a3.chunk.css.map": "/bcgame/static/css/main.141fb7a3.chunk.css.map",
-    "static/js/2.887eaba1.chunk.js.LICENSE.txt": "/bcgame/static/js/2.887eaba1.chunk.js.LICENSE.txt",
+    "static/js/2.838c8689.chunk.js.LICENSE.txt": "/bcgame/static/js/2.838c8689.chunk.js.LICENSE.txt",
     "static/media/10_of_clubs.png": "/bcgame/static/media/10_of_clubs.7fb1f45b.png",
     "static/media/10_of_diamonds.png": "/bcgame/static/media/10_of_diamonds.d1be977d.png",
     "static/media/10_of_hearts.png": "/bcgame/static/media/10_of_hearts.4f45bcb3.png",
@@ -54,8 +54,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ec04a610.js",
-    "static/js/2.887eaba1.chunk.js",
+    "static/js/2.838c8689.chunk.js",
     "static/css/main.141fb7a3.chunk.css",
-    "static/js/main.dc671808.chunk.js"
+    "static/js/main.cef78188.chunk.js"
   ]
 }
